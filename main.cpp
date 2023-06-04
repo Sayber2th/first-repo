@@ -1,2 +1,3 @@
 #include "Warrior.h"
-int MainFunction() {}
+int MAINFUNCTION() {}
+
